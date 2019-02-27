@@ -16,6 +16,7 @@ function increaseRankBy(n) {
     }
   }
 }
+<<<<<<< HEAD
 
 function deepestChild() {
   var grandNode = document.querySelector('#grand-node');
@@ -25,3 +26,5 @@ function deepestChild() {
   }
   return deepestNode;
 }
+=======
+>>>>>>> fd00171b0e63d434f4eb41007b997137bb59ccf0
